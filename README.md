@@ -4,7 +4,8 @@
 ## 📌 **Overview**  
 Welcome to the **FIR Redactor**, a powerful and intuitive tool developed for the Karnataka Police Department. The purpose of this tool is to enhance the privacy and security of sensitive information within **First Information Reports (FIRs)**. By leveraging cutting-edge AI, PDF processing libraries, and language models, this tool helps redact personal identifiers from FIR documents written in both **English** and **Kannada**.  
 <br>
-![Seamless Redaction Process](https://github.com/raju-2003/KSP-DATATHON-24/assets/107802002/092cadc2-dc8b-45ea-992e-da55dc2302e7)
+
+
 
 ## 🔥 **Key Features**  
 ✅ **Dual Language Support**: Works with both **English** and **Kannada** FIRs. <br>
