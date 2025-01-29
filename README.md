@@ -53,6 +53,13 @@ Edit
 streamlit run app.py  
 <br>
 📸 Screenshots / Demo
+![Criminal Investigation Department](https://github.com/user-attachments/assets/1707eef8-01e9-4eff-824d-d0b1bc1df89f)
+![484ac387b9dac68e30c446673015c562bb4549b5](https://github.com/user-attachments/assets/3ca4a811-6d48-459d-8862-2cedd8317f3e)
+![429d9c1790f00d5ea7de67650ae8f4c111a82616](https://github.com/user-attachments/assets/e69141c7-e5f5-47b2-86d9-17201dcac624)
+![59ffc1ebea2898d68ed4bacf0115ffb5643e14e9](https://github.com/user-attachments/assets/578c1510-6ee8-4179-a5b8-76308e8aff10)
+![5c5da72eec6ef0f13337ff286f76e2691c57716e](https://github.com/user-attachments/assets/85fbb237-4878-4e7a-8cc2-757d2f0f2c5e)
+
+
 
 <br>
 
