@@ -1,0 +1,9 @@
+streamlit
+pandas
+PyPDF2
+openai
+toml
+mysql-connector-python
+PyJWT
+pymongo
+PyMuPDF
